@@ -5,7 +5,8 @@
   "license": "MIT",
   "author": {
     "name": "Esau Silva (@_esausilva)",
-    "url": "https://esausilva.com"
+    "url": "https://esausilva.com",
+    "proxy": "http://localhost:5000/"
   },
   "scripts": {
     "dev": "run-p dev:**",
